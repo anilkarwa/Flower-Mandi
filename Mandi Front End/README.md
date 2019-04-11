@@ -1,6 +1,6 @@
 # mandi
 
-> Flower Mandi by Softvent
+> Flower Mandi is a PWA application developed for framer to create and accept order using table.
 
 ## Build Setup
 
